@@ -7,5 +7,5 @@ And User enter the password6
 Then Click on Login button6
 
 
-#And User click on Welcome option6
-#Then User Click on Logout option6
+And User click on Welcome option6
+Then User Click on Logout option6
