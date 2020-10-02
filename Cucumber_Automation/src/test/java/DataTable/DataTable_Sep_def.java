@@ -59,6 +59,5 @@ public class  DataTable_Sep_def
 		 driver.findElement(By.xpath("//input[@id='txtUsername']")).sendKeys(values1);
 		 driver.findElement(By.xpath("//input[@id='txtPassword']")).sendKeys(values2);
 		 
-		 driver.findElement(By.xpath("//*[@id='btnLogin']")).click();
 	}
 }
